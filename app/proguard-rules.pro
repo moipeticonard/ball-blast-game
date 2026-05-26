@@ -1,0 +1,2 @@
+-keep class com.ballblast.game.** { *; }
+-keepclassmembers class com.ballblast.game.** { *; }
